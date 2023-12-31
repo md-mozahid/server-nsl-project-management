@@ -1,76 +1,86 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "projectName": "Baridhara Pavilion (KSBL)",
-      "manpowerSite": "12",
-      "manpowerFactory": "2",
-      "projectHead": "Engr. Sujon/Rafiq ***One foreman is in leave and will join in s.alam site. ",
-      "workingTime": "8am - 5pm",
-      "breakTime": "1hr",
-      "overTime": "0",
-      "offDay": "1-Friday (In running month)",
-      "remarks": "Framing Erection completed, Tightening and Decking work in progress. Target to finish within 05/01/2024"
-    },
-    {
-      "id": 2,
-      "projectName": "NR GROUP (Shed-04)",
-      "manpowerSite": "4",
-      "manpowerFactory": "1",
-      "projectHead": "Liton",
-      "workingTime": "8am - 5pm",
-      "breakTime": "1hr",
-      "overTime": "0",
-      "offDay": "No pending off day",
-      "remarks": "Anchor bolt work in progress. Target to finish within 02/01/2024"
-    },
-    {
-      "projectName": "S.Alam Group (Chemical Godown)",
-      "projectHead": "Engr. Arobindu",
-      "manpowerSite": "5",
-      "manpowerFactory": "0",
-      "workingTime": "8am - 5pm",
-      "overTime": "0",
-      "offDay": "no pending off day",
-      "remarks": "Preparing for erection work. Erection work will start from 28/12/2023 (Proposed)",
-      "id": 3,
-      "breakTime": "1hr"
-    },
-    {
-      "projectName": "BOF",
-      "projectHead": "Engr. Sajib",
-      "manpowerSite": "0",
-      "manpowerFactory": "0",
-      "workingTime": "9am - 6pm",
-      "breakTime": "1hr",
-      "overTime": "0",
-      "offDay": "0",
-      "remarks": "R.C.C Work on progress.",
-      "id": 4
-    },
-    {
-      "projectName": "Mondol Group (Eco-Intimates-BBT Bridge)",
-      "projectHead": "Sahidul",
-      "manpowerSite": "0",
-      "manpowerFactory": "0",
-      "workingTime": "8am - 5pm",
-      "breakTime": "1hr",
-      "overTime": "0",
-      "offDay": "0",
-      "remarks": "Proposed (Erection will start from 31/12/2023 and finish on 10/01/2024 on basis of available materials delivery)",
-      "id": 5
-    },
-    {
-      "projectName": "Expo Accessories Ltd. (Repair Work)",
-      "projectHead": "Sahidul (Is going to Expo site)",
-      "manpowerSite": "0",
-      "manpowerFactory": "0",
-      "workingTime": "8AM-5PM",
-      "breakTime": "1hr",
-      "overTime": "0",
-      "offDay": "0",
-      "remarks": "Check and Repair Crane Beam alignment and level (Proposed)",
-      "id": 6
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "projectName": "Baridhara Pavilion (KSBL)",
+    "manpowerSite": "12",
+    "manpowerFactory": "2",
+    "projectHead": "Engr. Sujon/Rafiq ***One foreman is in leave and will join in s.alam site. ",
+    "workingTime": "8am - 5pm",
+    "breakTime": "1hr",
+    "overTime": "0",
+    "offDay": "1-Friday (In running month)",
+    "remarks": "Framing Erection completed, Tightening and Decking work in progress. Target to finish within 05/01/2024",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "id": 2,
+    "projectName": "NR GROUP (Shed-04)",
+    "manpowerSite": "4",
+    "manpowerFactory": "1",
+    "projectHead": "Liton",
+    "workingTime": "8am - 5pm",
+    "breakTime": "1hr",
+    "overTime": "0",
+    "offDay": "No pending off day",
+    "remarks": "Anchor bolt work in progress. Target to finish within 02/01/2024",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "projectName": "S.Alam Group (Chemical Godown)",
+    "projectHead": "Engr. Arobindu",
+    "manpowerSite": "5",
+    "manpowerFactory": "0",
+    "workingTime": "8am - 5pm",
+    "overTime": "0",
+    "offDay": "no pending off day",
+    "remarks": "Preparing for erection work. Erection work will start from 28/12/2023 (Proposed)",
+    "id": 3,
+    "breakTime": "1hr",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "projectName": "BOF",
+    "projectHead": "Engr. Sajib",
+    "manpowerSite": "0",
+    "manpowerFactory": "0",
+    "workingTime": "9am - 6pm",
+    "breakTime": "1hr",
+    "overTime": "0",
+    "offDay": "0",
+    "remarks": "R.C.C Work on progress.",
+    "id": 4,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "projectName": "Mondol Group (Eco-Intimates-BBT Bridge)",
+    "projectHead": "Sahidul",
+    "manpowerSite": "0",
+    "manpowerFactory": "0",
+    "workingTime": "8am - 5pm",
+    "breakTime": "1hr",
+    "overTime": "0",
+    "offDay": "0",
+    "remarks": "Proposed (Erection will start from 31/12/2023 and finish on 10/01/2024 on basis of available materials delivery)",
+    "id": 5,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "projectName": "Expo Accessories Ltd. (Repair Work)",
+    "projectHead": "Sahidul (Is going to Expo site)",
+    "manpowerSite": "0",
+    "manpowerFactory": "0",
+    "workingTime": "8AM-5PM",
+    "breakTime": "1hr",
+    "overTime": "0",
+    "offDay": "0",
+    "remarks": "Check and Repair Crane Beam alignment and level (Proposed)",
+    "id": 6,
+    "startDate": "",
+    "endDate": ""
+  }
+]
